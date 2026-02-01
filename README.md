@@ -17,6 +17,7 @@ Prosjektet er laget som en øvelse i:
 
 ## Funksjonalitet
 
+
 - Brukeren velger antall kort (1–15) ved hjelp av en slider
 - Ved knappetrykk trekkes et tilsvarende antall tilfeldige kort
 - Hvert kort består av:
@@ -28,10 +29,9 @@ Prosjektet er laget som en øvelse i:
 
 ## Prosjektstruktur
 
-PickACardUI/
-- ├── CardPicker.cs   // Programlogikk for tilfeldig korttrekking
-- ├── MainWindow.xaml   // Definisjon av brukergrensesnittet (WPF)
-- └── MainWindow.xaml.cs   // Kode-behind: kobler UI og logikk
+<pre> ```text PickACardUI/ ├── CardPicker.cs // Programlogikk for tilfeldig korttrekking ├── 
+MainWindow.xaml // Definisjon av brukergrensesnittet (WPF) └── MainWindow.xaml.cs // Kode-behind: 
+kobler UI og logikk ``` </pre>
 
 ---
 
