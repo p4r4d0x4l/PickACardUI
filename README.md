@@ -76,10 +76,12 @@ Hvis en ferdig `.exe` er tilgjengelig:
 
 ## Eksempel på output
 
+<pre>
 Ace of Spades
 7 of Hearts
 King of Diamonds
 3 of Clubs
+</pre>
 
 ---
 
