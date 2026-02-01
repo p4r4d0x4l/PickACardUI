@@ -30,10 +30,10 @@ Prosjektet er laget som en øvelse i:
 ## Prosjektstruktur
 
 <pre> 
-  ```text PickACardUI/ 
-  ├── CardPicker.cs // Programlogikk for tilfeldig korttrekking 
-  ├── MainWindow.xaml // Definisjon av brukergrensesnittet (WPF) 
-  └── MainWindow.xaml.cs // Kode-behind: kobler UI og logikk ``` 
+PickACardUI/ 
+  ├── CardPicker.cs         // Programlogikk for tilfeldig korttrekking 
+  ├── MainWindow.xaml       // Definisjon av brukergrensesnittet (WPF) 
+  └── MainWindow.xaml.cs    // Kode-behind: kobler UI og logikk ``` 
 </pre>
 
 ---
